@@ -1,0 +1,132 @@
+{
+  "Ads": [
+  { 
+      "banner_id":"ba924c1fc44d29ac",
+      "interstitial_id": "0ee55073fd46cb13",
+      "reward_id":"d64a59befe5cef9",
+      "natives_id":"8d9bec8b94279ed6",
+      "open_app_id":"fce5b3d0bbba9df0",
+      "interval_interstitial":4,
+      "channel_id":"9285717016", 
+      "status_app": "0",
+      "link_redirect": "https://"
+     
+  }
+  ],"sticker_packs": [
+    {
+      "id": "101",
+      "name": "Aliendroid",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/10/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        }
+      ]
+    },{
+      "id": "102",
+      "name": "One Piece",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/20/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },  
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        }
+      ]
+    }
+    ,{
+      "id": "103",
+      "name": "Chibi Boys",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/30/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "06.webp"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Dragon Ball Z",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
+      "image_cover": "00.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+         {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+         {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        }
+      ]
+    }
+  ]
+}
